@@ -46,6 +46,4 @@ def drawfile(file):
 
 
 if __name__ == "__main__":
-    with open(sys.argv[1],'r') as imp:
-        for file in imp.readlines():
-            drawfile(file.strip())
+    drawfile(sys.argv[1])
