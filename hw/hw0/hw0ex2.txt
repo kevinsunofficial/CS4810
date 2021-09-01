@@ -1,0 +1,33 @@
+pngs 7 7 hw0ex2- 16
+frame 0
+xyrgb 6 3   0 0 0
+frame 1
+xyrgb 6 2   32 0 0
+frame 2
+xyrgb 5 1   64 0 0
+frame 3
+xyrgb 4 0   92 0 0
+frame 4
+xyrgb 3 0   128 0 0
+frame 5
+xyrgb 2 0   160 0 0
+frame 6
+xyrgb 1 1   192 0 0
+frame 7
+xyrgb 0 2   224 0 0
+frame 8
+xyrgb 0 3   255 0 0
+frame 9
+xyrgb 0 4   192 32 0 
+frame 10
+xyrgb 1 5   128 64 0
+frame 11
+xyrgb 2 6   64 92 0
+frame 12
+xyrgb 3 6   0 128 0
+frame 13
+xyrgb 4 6   0 92 0
+frame 14
+xyrgb 5 5   0 64 0
+frame 15
+xyrgb 6 4   0 32 0
