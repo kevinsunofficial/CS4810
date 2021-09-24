@@ -1,0 +1,10 @@
+png 120 120 hw1cubicc.png
+
+xyc 100.5 30.5  #000000
+xyc 23 99       #000000
+xyc 10.5 20.5   #000000
+xyc 103 89      #000000
+
+cubicc 2 4 1 3 #0000ff
+cubicc 1 2 3 4 #00ff00
+cubicc 1 4 2 1 #ff0000

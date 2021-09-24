@@ -1,0 +1,11 @@
+hw1demo.txt
+hw1linec.txt
+hw1trig.txt
+hw1lineg.txt
+hw1tric.txt
+hw1rgba.txt
+hw1trica.txt
+hw1fann.txt
+hw1stripn.txt
+hw1cubicc.txt
+hw1cubicg.txt

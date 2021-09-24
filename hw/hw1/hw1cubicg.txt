@@ -1,0 +1,11 @@
+png 120 120 hw1cubicg.png
+
+xyc 100.5 30.5 #00ff00
+xyc 23 99      #ff0000
+xyc 10.5 20.5  #f12e3d
+xyc 103 89     #123456
+xyc 60 60      #fedcba
+
+cubicg 1 2 3 4
+cubicg 1 5 4 3
+cubicg 2 4 1 3

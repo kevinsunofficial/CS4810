@@ -1,0 +1,11 @@
+png 120 120 hw1trica.png
+
+xyc 10 10    #000000
+xyc 10 100   #000000
+xyc 100 10   #000000
+xyc 100 100  #000000
+
+trica 1 2 3 #ff0000ff
+trica 1 2 4 #00ff007f
+trica 2 3 4 #0000ff3f
+trica 1 3 4 #ffffff28
