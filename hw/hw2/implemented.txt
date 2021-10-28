@@ -1,0 +1,17 @@
+hw2trif.txt
+hw2color.txt
+hw2loadmv.txt
+hw2loadp.txt
+hw2pixelclip.txt
+hw2depth.txt
+hw2xyzw.txt
+hw2frustum.txt
+hw2ortho.txt
+hw2translate.txt
+hw2rotatex.txt
+hw2rotate.txt
+hw2scale.txt
+hw2lookat.txt
+hw2multmv.txt
+hw2trig.txt
+hw2cull.txt
