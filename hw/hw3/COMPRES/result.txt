@@ -1,0 +1,24 @@
+hw3plane, 1, 59, Wrong Color, 231/231/231, 199/199/199
+hw3plane, 11, 28, Extra Pixel
+hw3plane, 17, 31, Wrong Color, 0/0/0, 231/231/231
+hw3plane, 19, 56, Wrong Color, 231/231/231, 199/199/199
+hw3plane, 23, 34, Wrong Color, 0/0/0, 231/231/231
+hw3plane, 25, 35, Wrong Color, 0/0/0, 231/231/231
+hw3shadow-basic, 48, 26, Extra Pixel
+hw3shadow-basic, 72, 26, Extra Pixel
+hw3shadow-bulb, 12, 60, Wrong Color, 196/0/0, 0/0/0
+hw3shadow-bulb, 108, 60, Wrong Color, 196/0/0, 0/0/0
+hw3shadow-plane, 31, 118, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 32, 116, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 33, 24, Pixel Missing
+hw3shadow-plane, 33, 114, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 34, 112, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 35, 110, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 36, 28, Pixel Missing
+hw3shadow-plane, 36, 108, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 37, 106, Wrong Color, 193/193/193, 242/242/242
+hw3shadow-plane, 39, 32, Extra Pixel
+hw3shadow-plane, 48, 26, Extra Pixel
+hw3shadow-plane, 72, 26, Extra Pixel
+hw3shadow-suns, 48, 26, Extra Pixel
+hw3shadow-suns, 72, 26, Extra Pixel
